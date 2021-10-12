@@ -6,7 +6,13 @@
 
 body {
   font-family: Arial, sans-serif;
-  font-size: 200px;
+  font-size: 150%;
+}
+
+div, iframe {
+    width: 600px;
+    height: 600px;
+    margin: 0 auto;
 }
 
 .fa,
