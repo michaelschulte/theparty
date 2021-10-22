@@ -4,9 +4,9 @@
  */
 
 
+
 body {
-  font-family: Arial, sans-serif;
-  font-size: 150%;
+  background-color: #5CDB95;
 }
 
 div, iframe {
@@ -14,6 +14,61 @@ div, iframe {
     height: 600px;
     margin: 0 auto;
 }
+
+h1{
+  text-align: center;
+  color: #05386B;
+  font-family: Arial, sans-serif;
+}
+
+table.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; 
+}
+
+table.cell-center {
+    text-align: center;
+}
+
+.td-darkblue{
+  font-weight:100;
+  background-color:#05386B;
+  color: #05386B;
+}
+
+.td-darkgreen{
+  font-weight:100;
+  background-color:#379683;
+  color: #05386B;
+}
+
+.td-green{
+  font-weight:100;
+  background-color:#5CDB95;
+  color: #05386B;
+}
+
+.td-lightgreen{
+  font-weight:100;
+  background-color:#8EE4AF;
+  color: #05386B;
+}
+
+.td-grey{
+  font-weight:150;
+  background-color:#EDF5E1;
+  color: #05386B;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 200%;
+}
+
+
+
+
+
+
 
 .fa,
 .fas,

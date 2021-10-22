@@ -31,15 +31,37 @@ div.transbox {
 <body>
 
 <div class="parallax"></div>
-
-
-
-<div style="height:1000px;background-color:lightgrey;opacity: 0.5;font-size:36px">
+<div style="height:200px;background-color:lightgrey;opacity: 0.5;font-size:36px">
   <div class="transbox">
 Scroll Up and Down this page to see the parallax scrolling effect.
 This div is just here to enable scrolling.
 Tip: Try to remove the background-attachment property to remove the scrolling effect.
 </div>
+</div>
+<div class="parallax"></div>
+
+<div class="parallax"></div>
+<form name="RSVP" method="POST" data-netlify="true">
+  <p>
+    <label>Familienname / Name: <input type="text" name="name" /></label>   
+  </p>
+  <p>
+    <label>Ich komme / I will be there: <select name="role[]" multiple>
+      <option value="1">alleine / alone</option>
+      <option value="2">+1</option>
+      <option value="3">+2</option>
+      <option value="4">+3</option>
+      <option value="5">+4</option>
+      <option value="0">gar nicht / not at all</option>
+    </select></label>
+  </p>
+  <p>
+    <label>Nachricht / Message <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button type="submit">Senden / Send</button>
+  </p>
+</form>
 </div>
 <div class="parallax"></div>
 

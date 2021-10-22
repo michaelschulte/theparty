@@ -1,46 +1,57 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <link href="fontawesome-web/css/all.css" rel="stylesheet">
-    <link rel="stylesheet" href="fontawesome-web/css/font-awesome.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/omerimzali/uiterminal@master/uiterminal.min.css">
 </head>
 
-<i class="fas fa-date">
-Save the date.
-</i>
-<br>
-<i class="fas fa-calendar-day"> 03.06. - 05.06.2022</i>
-<br>
-<i class="far fa-compass"> Pension Waldruhe 
-Mosern 33, 8990 Bad Aussee, Austria
- </i>
-<br>
-<form name="contact" method="POST" data-netlify="true">
-  <p>
-    <label>Your Name: <input type="text" name="name" /></label>   
-  </p>
-  <p>
-    <label>Your Email: <input type="email" name="email" /></label>
-  </p>
-  <p>
-    <label>Your Role: <select name="role[]" multiple>
-      <option value="leader">Leader</option>
-      <option value="follower">Follower</option>
-    </select></label>
-  </p>
-  <p>
-    <label>Message: <textarea name="message"></textarea></label>
-  </p>
-  <p>
-    <button type="submit">Send</button>
-  </p>
-</form>
-<br>
-<p align="center">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2755.9947915883968!2d13.809900828770312!3d47.61721407999476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4771468ac514c745%3A0x47046c7f7167efa5!2sWaldruhe%20Pension!5e1!3m2!1sen!2sch!4v1633980926123!5m2!1sen!2sch" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-<br>
+<h1>18052 days</h1>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf5UkASkjSDGwawy2uourEPRb3s_uqzRIBqnwTk-YdqLos8Jg/viewform?embedded=true" width="640" height="740" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-</p>
+<h2>Save the date.</h2>
+<h2>03.06. - 05.06.2022</h2>
+
+<button class='uiterminal-button'>Ein Wochenende</button><br>
+<button class='uiterminal-button uitext-white uibg-primary'>plaudern</button><br>
+<button class='uiterminal-button uitext-white uibg-secondary'>essen</button><br>
+<button class='uiterminal-button uitext-white uibg-danger'>trinken</button><br>
+<button class='uiterminal-button uitext-white uibg-warning'>tanzen</button><br>
+<br>
+<a href="https://www.google.com/maps/@47.6169899,13.8079214,633m/data=!3m1!1e3"><button class='uiterminal-button uitext-white uibg-success'>Wo?</button></a>Pension Waldruhe Mosern 33, 8990 Bad Aussee, Austria
+
+<br><br>  
+<h2>Fuer die Planung RSVP (bis 31.12.2021)</h2>
+
+<table class="center">
+  <tr>
+    <td>
+<form name="contact" method="POST" data-netlify-recaptcha="true" data-netlify="true">
+      <p>
+        <label>Familienname / Name: <input type="text" name="name" /></label>
+      </p>
+      <p>
+        <label>Ich komme / I will be there: <select name="role[]" multiple>
+          <option value="1">alleine / alone</option>
+          <option value="2">+1</option>
+          <option value="3">+2</option>
+          <option value="4">+3</option>
+          <option value="5">+4</option>
+          <option value="0">gar nicht / not at all</option>
+        </select></label>
+      </p>
+      <p>
+        <label>Nachricht / Message <textarea name="message"></textarea></label>
+      </p>
+        </p>
+  <div data-netlify-recaptcha="true"></div>
+  <p>
+      <p>
+        <button type="submit">Senden / Send</button>
+      </p>
+    </form>
+  </td>
+</tr>
+</table>
+
+<a href="mailto:michael@schulte-mecklenbeck.com?subject=[18052]" class="uiterminal-badge uitext-white uibg-black">Contact</a>
 
 <body>
