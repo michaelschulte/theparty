@@ -1,0 +1,6 @@
+#tooltip{
+  display:none;
+}
+#bigdiv:hover #tooltip{
+  display:block;
+}
