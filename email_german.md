@@ -5,7 +5,7 @@ Dafür habe ich einen netten Platz gefunden, Essen und Wein gekostet und für Mu
 Was jetzt noch fehlt ist eine Einschätzung wer den Weg dann auf sich nimmt und ins tiefe Österreich kommt. 
 Man könnte das als Kurzurlaub mit Party framen ... aber das muss vielleicht gar nicht sein.
 
-Gerne bis 10.12.2021 mal eine Absichtserklärung hier:
+Gerne bis 10.12.2021 mal eine Absichtserklärung hier (nähere Infos sind auch auf der Seite):
 https://18052.netlify.app ausfüllen - kann dann noch immer viel dazwischen kommen, aber was weiss man :)
 
 Freu mich auf Dich/Euch!
