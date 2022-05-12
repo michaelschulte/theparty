@@ -9,7 +9,7 @@ library(igraph)
 library(ggraph)
 library(colormap)
 
-palette <- c("#000000", "#E1AF00", "#78B7C5", "#EBCC2A", "#3B9AB2", "#EBAA00")
+palette <- c("#000000", "#E1AF00", "#78B7C5", "#EBCC2A", "#3B9AB2", "#EAEA00")
 font_add_google(family = 'Press Start 2P', 'Press Start 2P')
 
 
@@ -101,7 +101,7 @@ N <- 45
 history <- tibble(name = c('Andreas', 'Denise', 'Josefine', 'Matthias', 
                            'Matthias_Chefin', 'Susa', 'Chrissie', 'Jesko', 'Yann', 'Elisa', 
                            'Simon', 'Sascha', 'Andrea', 'Toni', 'Tomas', 'Paul', 'Katrin', 
-                           'Christoph', 'Sandi', 'Ruth', 'Nina', 'Markus', 'Jürgen', 'Ingrid', 
+                           'Christof', 'Sandi', 'Ruth', 'Nina', 'Markus', 'Jürgen', 'Ingrid', 
                            'Rima', 'Stefan-A.', 'Frank', 'Karoline', 'Samuel', 'Liv', 'Rainer', 
                            'Anne', 'Johannes', 'Dries', 'Laura', 'Eva', 'Stefan', 'Flori', 'Dirk'), 
                   ort = c('S', 'BA', 'BA', 'BA', 'BA', 'DE', 'CH', 'CH', 'CH', 'CH', 'CH', 'S', 'W', 'S', 'DE', 'S', 'S', 'S', 'S',
