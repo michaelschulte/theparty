@@ -99,7 +99,7 @@ N <- 45
 # 35
 
 history <- tibble(name = c('Andreas', 'Denise', 'Josefine', 'Matthias', 
-                           'Matthias_Chefin', 'Susa', 'Chrissie', 'Jesko', 'Yann', 'Elisa', 
+                           'Ines', 'Susa', 'Chrissie', 'Jesko', 'Yann', 'Elisa', 
                            'Simon', 'Sascha', 'Andrea', 'Toni', 'Tomas', 'Paul', 'Katrin', 
                            'Christof', 'Sandi', 'Ruth', 'Nina', 'Markus', 'Jürgen', 'Ingrid', 
                            'Rima', 'Stefan-A.', 'Frank', 'Karoline', 'Samuel', 'Liv', 'Rainer', 
