@@ -7,8 +7,14 @@ Freitag, 3.6. s'Gricht (nur Barzahlung)
 - Lejarraga (1)
 - Schulte/Mitterndorfer (4)
 
+<<<<<<< HEAD
 - ev. Renkewitz (1)
 - Kolnerberger/Heigl (2)
+=======
+15
+
++43 660 8017317
+>>>>>>> 5be92a8f9bfe09ec3a105bc68fda7225b2250a7d
 
 Sonntag, 5.6. Zauchenwirt
 
@@ -21,3 +27,7 @@ Sonntag, 5.6. Zauchenwirt
 - Trippas/Koenig (2)
 - Kolnerberger/Heigl (2)
 - Schulte/Mitterndorfer (4)
+
+19
+
++43 3623 2911
