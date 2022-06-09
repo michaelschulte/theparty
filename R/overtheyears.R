@@ -116,7 +116,7 @@ history <- tibble(name = c('Andreas', 'Denise', 'Josefine', 'Matthias',
 history <- 
 history %>%
   mutate_at(vars(contains('earliest_meet')), .funs = ymd) %>%
-  mutate(today = ymd(20220604),
+  mutate(today = ymd(20320515),
          diff = today - earliest_meet,
          ort = case_when( 
                    ort == 'BA' ~ 'Bad Aussee',
