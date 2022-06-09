@@ -73,7 +73,7 @@ ggraph(mygraph, layout="linear") +
 
 
 
-
+ymd(20320515) - ymd(19721231)
 
 
 
